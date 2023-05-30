@@ -7,4 +7,9 @@
 - 👯 I’m looking to collaborate on Cypress, Selenium,Playwright Project
 - 💬 Ask me about Testing Process,Cypress,Selenium,Framework SetUp, CI/CD
 - 📫 How to reach me: anshita.bhasin@gmail.com
+
 - LinkedIn : https://www.linkedin.com/in/anshita-bhasin/
+- Medium : https://medium.com/@anshita.bhasin
+- Youtube : https://www.youtube.com/channel/UCtNHEcO_c9qpaUqIYSb98Rg
+- LambdaTestBlogs : https://www.lambdatest.com/blog/author/anshitabhasin/
+
