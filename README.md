@@ -23,6 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
+<a href="https://medium.com/@anshita.bhasin" target="blank"><img align="center" alt="@anshita.bhasin" height="30" width="40" /></a>
+
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
