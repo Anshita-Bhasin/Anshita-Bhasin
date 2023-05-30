@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **new automation techniques**
 
-- 👯 I’m looking to collaborate on **Cypress, Seleniu, Playwright**
+- 👯 I’m looking to collaborate on **Cypress, Selenium, Playwright**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anshita-Bhasin](https://github.com/Anshita-Bhasin)
 
