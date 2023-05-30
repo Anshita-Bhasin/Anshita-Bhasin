@@ -24,7 +24,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 
-<a href="https://medium.com/@anshita.bhasin" target="blank"><img align="center" alt="@anshita.bhasin" height="30" width="40" /></a>
+<a href="https://medium.com/@anshita.bhasin" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anshita.bhasin" height="30" width="40" /></a>
+
+
 
 
 <!-- BLOG-POST-LIST:END -->
