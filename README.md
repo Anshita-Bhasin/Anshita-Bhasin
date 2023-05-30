@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Testing Process,Cypress,Selenium,Framework SetUp, CI/CD**
 
-- 📫 How to reach me **anshita.bhasin@gmail.com**
+- 📫 You can reach me at **anshita.bhasin@gmail.com**
 
 - ⚡ Fun fact **I love driving**
 
