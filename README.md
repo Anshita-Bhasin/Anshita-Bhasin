@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Anshita Bhasin</h1>
 <h3 align="center">A passionate software tester, working with proptech company in Dubai</h3>
 
@@ -25,9 +24,6 @@
 <!-- BLOG-POST-LIST:START -->
 
 <a href="https://medium.com/@anshita.bhasin" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anshita.bhasin" height="30" width="40" /></a>
-
-
-
 
 <!-- BLOG-POST-LIST:END -->
 
