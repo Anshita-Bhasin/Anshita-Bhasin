@@ -1,13 +1,15 @@
+
+
 <h1 align="center">Hi 👋, I'm Anshita Bhasin</h1>
 <h3 align="center">A passionate software tester, working with proptech company in Dubai</h3>
 
-<p align="left"> <a href="https://twitter.com/@ anshita__bhasin" target="blank"><img src="https://img.shields.io/twitter/follow/@ anshita__bhasin?logo=twitter&style=for-the-badge" alt="@ anshita__bhasin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ anshita__bhasin" target="blank"><img src="https://img.shields.io/twitter/follow/@ anshita__bhasin?logo=twitter&style=for-the-badge" alt="@anshita__bhasin" /></a> </p>
 
 - 🔭 I’m currently working on **Cypress, K6**
 
 - 🌱 I’m currently learning **new automation techniques**
 
-- 👯 I’m looking to collaborate on **Cypress, Seleniu, Playwright**
+- 👯 I’m looking to collaborate on **Cypress, Selenium, Playwright**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anshita-Bhasin](https://github.com/Anshita-Bhasin)
 
