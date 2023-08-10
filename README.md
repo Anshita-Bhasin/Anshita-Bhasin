@@ -18,8 +18,6 @@
 
 - 📫 You can reach me at **anshita.bhasin@gmail.com**
 
-- ⚡ Fun fact **I love driving**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 
