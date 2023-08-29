@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ anshita__bhasin" target="blank"><img src="https://img.shields.io/twitter/follow/@ anshita__bhasin?logo=twitter&style=for-the-badge" alt="@anshita__bhasin" /></a> </p>
 
-- 🔭 I’m currently using **Cypress, K6, GitHub Actions, Jenkins, Docker **
+- 🔭 I’m currently using  **Cypress, K6, GitHub Actions, Jenkins, Docker**
 
 - 🌱 I’m currently learning **new automation techniques**
 
